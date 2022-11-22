@@ -1,0 +1,16 @@
+PODS:
+  - AlertDialog (0.0.1)
+
+DEPENDENCIES:
+  - AlertDialog (from `../`)
+
+EXTERNAL SOURCES:
+  AlertDialog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AlertDialog: 1c3baf97e323885073d499cd56a1e63b507c20e7
+
+PODFILE CHECKSUM: 5a58da48a77bf03cee66eb0fdee89657e472e685
+
+COCOAPODS: 1.11.2
